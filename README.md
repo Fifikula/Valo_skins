@@ -38,6 +38,6 @@ git clone https://github.com/Fifikula/Valo_skins.git
 ```
 2. Otwórz projekt w IntelliJ IDEA
 
-3. Zbuduj projekt za pomocą Mavena
+3. Upewnij się że w zakładce Settings oraz Project Structure wersja Javy jest powyżej 21
 
 4. Uruchom aplikację
