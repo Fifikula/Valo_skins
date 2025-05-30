@@ -1,3 +1,7 @@
+## 👤 Autor
+
+**Filip Gumiński**
+
 # 🎮 Valo_skins
 
 Aplikacja desktopowa umożliwiająca przeglądanie skinów z gry **Valorant** z wykorzystaniem publicznego API [vinfo-api.com](https://vinfo-api.com/).
