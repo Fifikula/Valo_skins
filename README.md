@@ -30,7 +30,7 @@ Aplikacja desktopowa umożliwiająca przeglądanie skinów z gry **Valorant** z 
 1. Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/twoj-usernazwa/valo_skins.git
+git clone https://github.com/Fifikula/Valo_skins.git
 ```
 2. Otwórz projekt w IntelliJ IDEA
 
